@@ -21,7 +21,11 @@
             <th scope="col">Aksi</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody>$ git config --global user.name "zaulfatha"
+        $ git config --global user.email helmizaulfatha@gmail.com
+
+
+
 
           <?php foreach ($list_buku as $key => $val) : ?>
             <tr>
